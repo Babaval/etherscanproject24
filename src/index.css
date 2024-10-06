@@ -1,0 +1,42 @@
+.nft-tracker-container {
+  padding: 20px;
+}
+
+.nft-info-card {
+  border-radius: 40px;
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+.nft-info {
+  margin-bottom: 15px;
+}
+
+.ownership-history {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.ownership-history li {
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.extra-info {
+  margin-top: 20px;
+}
+
+.extra-info h4 {
+  margin-bottom: 10px;
+}
+
+.extra-info p {
+  margin-bottom: 15px;
+}
+
+.qr-code {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
